@@ -1,1 +1,1 @@
-"use strict";var numbers2=[4,71,38,43];
+"use strict";console.log("hello");
