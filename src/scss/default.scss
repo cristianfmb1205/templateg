@@ -1,0 +1,36 @@
+html {
+    box-sizing: border-box;
+    font-size: 65.2%;
+}
+
+*,
+*:after,
+*::before {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: rgb(73, 160, 218);
+    font-size: 1.6rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.container {
+    max-width: 1200pc;
+    width: 90%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+img {
+    max-width: 100%;
+}

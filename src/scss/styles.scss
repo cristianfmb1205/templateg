@@ -1,17 +1,4 @@
-body{
-  color:rgb(37, 21, 21);
-  background-color: #222;
-  padding-bottom: 400vh;
-}
-
-.red{
-  color: red;
-}
-
-.blue{
-  color:#fff;
-}
-
-.green{
-  color:green;
-}
+@import 'normalize';
+@import 'variables';
+@import 'default';
+@import 'mixins';
